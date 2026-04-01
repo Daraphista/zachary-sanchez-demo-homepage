@@ -1,0 +1,420 @@
+{
+  "client": "Zach Sanchez / Sanchez Property Group",
+  "sections": [
+    {
+      "id": "navigation-bar",
+      "name": "Navigation Bar",
+      "status": "include",
+      "order": 1,
+      "content": {
+        "logoText": "Sanchez Property Group",
+        "navLinks": [
+          "Properties",
+          "Communities",
+          "About Zach",
+          "Guides",
+          "Blog",
+          "Contact"
+        ],
+        "burgerMenuLinks": [
+          "Properties",
+          "Communities",
+          "About Zach",
+          "Guides",
+          "Blog",
+          "Home Valuation",
+          "Concierge",
+          "Contact"
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "name": "Hero",
+      "status": "include",
+      "order": 2,
+      "content": {
+        "headline": "Austin Real Estate, Done Right",
+        "subheadline": "Buying, selling, or investing — local expertise since 2007.",
+        "cta": "View Active Listings"
+      }
+    },
+    {
+      "id": "listings",
+      "name": "Listings",
+      "status": "include",
+      "order": 3,
+      "content": {
+        "sectionHeading": "Current Listings",
+        "sectionSubheading": "Active properties across Austin and Central Texas.",
+        "ctaText": "View All Properties",
+        "categoryLabels": [
+          "Active Listings",
+          "New Construction",
+          "Sold Portfolio"
+        ]
+      }
+    },
+    {
+      "id": "about-founder-spotlight",
+      "name": "About / Founder Spotlight",
+      "status": "include",
+      "order": 4,
+      "content": {
+        "introLine": "Over a Decade of Austin Real Estate Experience",
+        "heading": "Zach Sanchez",
+        "bodyCopy": "Zach Sanchez has been a licensed real estate agent for over a decade — and has called Austin home since 2007. He watched this city grow from a college town into a national tech hub, and that firsthand market knowledge is what he brings to every transaction. Whether you're building an investment portfolio, relocating to Central Texas, or searching for the right neighborhood to raise a family, Zach's approach starts with listening. He's built a reputation on relationships, responsiveness, and a deep understanding of Austin's neighborhoods — particularly South Central and East Austin. A graduate of Texas State University with a background in Public Relations and Business Administration, he combines market fluency with a creative, technology-forward mindset.",
+        "ctaText": "Read Full Bio",
+        "accoladesBannerItems": [
+          "Licensed Realtor, 10+ Years",
+          "Compass Certified Agent",
+          "Austin Market Specialist",
+          "New Construction Expert",
+          "Texas State University Alumni"
+        ]
+      }
+    },
+    {
+      "id": "stats-why-choose-us",
+      "name": "Stats / Why Choose Us",
+      "status": "include",
+      "order": 5,
+      "needsInput": true,
+      "content": {
+        "sectionHeading": "Rooted in Austin. Ready for Your Next Move.",
+        "subheading": "Local knowledge backed by a decade of closed deals.",
+        "bodyCopy": "Zach has been working Austin's real estate market since 2007 — through boom cycles, rate shifts, and neighborhood transformations. His clients close with confidence because he stays ahead of market trends, new construction pipelines, and investment opportunities most agents overlook.",
+        "stats": [
+          { "value": "10+", "label": "Years Licensed" },
+          { "value": "2007", "label": "In Austin Since" },
+          { "value": "3", "label": "Core Austin Neighborhoods" },
+          { "value": "[Client to provide]", "label": "Homes Sold" },
+          { "value": "[Client to provide]", "label": "Total Sales Volume" },
+          { "value": "[Client to provide]", "label": "5-Star Reviews" }
+        ],
+        "ctaText": "Explore Our Portfolio",
+        "note": "NEEDS CLIENT INPUT: Zach to provide transaction volume, total sales volume, and review count to complete this section."
+      }
+    },
+    {
+      "id": "communities-areas-served",
+      "name": "Communities / Areas Served",
+      "status": "include",
+      "order": 6,
+      "content": {
+        "sectionHeading": "The Neighborhoods We Know Best",
+        "subheading": "Hyper-local expertise across Austin's most sought-after communities.",
+        "areaCards": [
+          {
+            "areaName": "South Central Austin",
+            "description": "One of Austin's most culturally rich corridors — walkable, diverse, and home to some of the city's best dining, fitness, and arts scenes. A personal favorite."
+          },
+          {
+            "areaName": "East Austin",
+            "description": "Gritty character and rapid appreciation. East Austin has evolved into one of the most desirable urban neighborhoods in Texas — and Zach has watched every phase of that growth."
+          },
+          {
+            "areaName": "South Lamar",
+            "description": "A vibrant stretch connecting some of Austin's best restaurants, boutiques, and live music venues. Strong rental demand and consistent property value."
+          },
+          {
+            "areaName": "Central East Austin",
+            "description": "The sweet spot between old Austin and new development. Attractive for first-time buyers and investors alike."
+          },
+          {
+            "areaName": "Greater Austin",
+            "description": "From the Hill Country suburbs to North Austin's tech corridors — wide-area coverage backed by deep local ties."
+          }
+        ]
+      }
+    },
+    {
+      "id": "navigation-cta-offers-services",
+      "name": "Navigation / CTA — Offers & Services",
+      "status": "include",
+      "order": 7,
+      "content": {
+        "sectionHeading": "How We Can Help",
+        "shortDescriptor": "From first-time buyers to seasoned investors — here's where to start.",
+        "linkItems": [
+          "Buy a Home",
+          "Sell Your Home",
+          "Search Rentals",
+          "New Construction",
+          "Home Valuation",
+          "Relocation Services",
+          "Compass Concierge",
+          "Neighborhood Guides",
+          "Investment Consultation",
+          "Contact Zach"
+        ]
+      }
+    },
+    {
+      "id": "guides",
+      "name": "Guides",
+      "status": "include",
+      "order": 8,
+      "content": {
+        "sectionHeading": "Know the Market Before You Move",
+        "linkItems": [
+          "Buyer's Guide: Step-by-Step Home Purchase Process",
+          "Seller's Guide: When to Sell in Austin",
+          "Pre-Listing Inspection Guide: Avoid Deal Breakers",
+          "Relocation Guide: Moving to Austin",
+          "Neighborhood Guide: South Central Austin",
+          "Neighborhood Guide: East Austin",
+          "Neighborhood Guide: South Lamar"
+        ]
+      }
+    },
+    {
+      "id": "press-media",
+      "name": "Press / Media",
+      "status": "example",
+      "order": 9,
+      "content": {
+        "sectionHeading": "(Example Section) As Seen In",
+        "exampleNote": "This is an example of what this section could look like on your site.",
+        "mediaCards": [
+          {
+            "publication": "Austin Home & Living",
+            "articleTitle": "The Agents Reshaping Austin's Real Estate Scene"
+          },
+          {
+            "publication": "Central Texas Business Review",
+            "articleTitle": "Top Producers: Who's Closing Deals in a Shifting Market"
+          },
+          {
+            "publication": "The Texas Real Estate Podcast",
+            "articleTitle": "Episode 112: Austin's East Side and What's Coming Next"
+          }
+        ]
+      }
+    },
+    {
+      "id": "featured-videos",
+      "name": "Featured Videos",
+      "status": "include",
+      "order": 10,
+      "content": {
+        "sectionHeading": "Learn Before You Buy",
+        "bodyCopy": "Navigating Austin's real estate market takes more than a quick search. This step-by-step video breaks down the home-buying process — what to expect, how to prepare, and how to move fast when the right property hits.",
+        "ctaText": "Watch the Guide"
+      }
+    },
+    {
+      "id": "app-spotlight",
+      "name": "App Spotlight",
+      "status": "example",
+      "order": 11,
+      "content": {
+        "sectionHeading": "(Example Section) Search Smarter",
+        "exampleNote": "This is an example of what this section could look like on your site.",
+        "bodyCopy": "The Austin Home Search app puts real-time listings, price alerts, and neighborhood data in your pocket. Browse active inventory, save your favorites, and connect directly with Zach — all without opening a laptop. Built for buyers who move fast in a market that doesn't wait.",
+        "ctaText": "Download on the App Store"
+      }
+    },
+    {
+      "id": "magazine-spotlight",
+      "name": "Magazine Spotlight",
+      "status": "example",
+      "order": 12,
+      "content": {
+        "sectionHeading": "(Example Section) The Austin Property Report",
+        "exampleNote": "This is an example of what this section could look like on your site.",
+        "bodyCopy": "A quarterly look at Austin's market trends, emerging neighborhoods, and the properties defining the city's next chapter. Each issue features investment insights, lifestyle editorial, and exclusive property previews from the Sanchez Property Group portfolio.",
+        "ctaText": "Read the Latest Issue"
+      }
+    },
+    {
+      "id": "custom-services",
+      "name": "Custom Services",
+      "status": "include",
+      "order": 13,
+      "content": {
+        "sectionHeading": "Sell for More. Pay Nothing Upfront.",
+        "serviceName": "Compass Concierge",
+        "bodyCopy": "Through Compass Concierge, Zach's clients access pre-sale home preparation — staging, painting, flooring, and more — with zero out-of-pocket costs before closing. The work gets done, the home goes to market at its best, and payment is deferred until the sale closes.",
+        "ctaText": "Learn About Concierge"
+      }
+    },
+    {
+      "id": "testimonials",
+      "name": "Testimonials",
+      "status": "include",
+      "order": 14,
+      "content": {
+        "sectionHeading": "What Clients Say",
+        "testimonials": [
+          {
+            "name": "First-Time Buyer Client",
+            "role": "Home Buyer",
+            "quote": "Zach made the first-time home buying process way easier than we ever thought possible. He kept things on track and helped us understand every step — and made himself super available whenever we needed to tour a property."
+          },
+          {
+            "name": "Verified Client",
+            "role": "Home Buyer and Seller",
+            "quote": "Zach was great in helping me buy a home and later sell it. The process was very unique and he was there every step of the way."
+          },
+          {
+            "name": "Relocation Client",
+            "role": "New to Austin",
+            "quote": "I was so lucky to meet Zach. He showed me properties I wouldn't have found on my own, gave me a real feel for the city, and made what could have been a stressful process feel completely manageable."
+          },
+          {
+            "name": "Verified Client",
+            "role": "Home Buyer",
+            "quote": "Zach is five stars. We're grateful for his grace under pressure and attentive, mindful stewardship of our purchase from start to finish."
+          },
+          {
+            "name": "Rental Client",
+            "role": "Apartment Hunter",
+            "quote": "Within an hour of submitting a request, Zach personally called me to talk through exactly what I was looking for. From there he sent an interactive map with options that matched my criteria perfectly."
+          }
+        ],
+        "ctaText": "Read More Reviews"
+      }
+    },
+    {
+      "id": "blog",
+      "name": "Blog",
+      "status": "include",
+      "order": 15,
+      "content": {
+        "sectionHeading": "Austin Market Insights",
+        "subheading": "Trends, neighborhood deep-dives, and practical advice from someone who's been here since 2007.",
+        "ctaText": "Visit the Blog"
+      }
+    },
+    {
+      "id": "philanthropy",
+      "name": "Philanthropy",
+      "status": "example",
+      "order": 16,
+      "content": {
+        "sectionHeading": "(Example Section) Invested in Austin",
+        "exampleNote": "This is an example of what this section could look like on your site.",
+        "bodyCopy": "Real estate is more than transactions — it's community. Each year, a portion of every closed deal supports the Austin Housing Access Fund, providing down-payment assistance to first-generation homebuyers in Central Texas. Since 2020, the program has helped over 30 families secure homeownership for the first time.",
+        "ctaText": "Learn About Our Impact"
+      }
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media",
+      "status": "example",
+      "order": 17,
+      "content": {
+        "sectionHeading": "(Example Section) Follow Along",
+        "exampleNote": "This is an example of what this section could look like on your site.",
+        "platforms": [
+          { "platform": "Instagram", "followers": "14.2k followers" },
+          { "platform": "YouTube", "followers": "6.8k subscribers" },
+          { "platform": "Facebook", "followers": "9.4k followers" },
+          { "platform": "LinkedIn", "followers": "3.1k connections" }
+        ]
+      }
+    },
+    {
+      "id": "cta-form",
+      "name": "CTA Form",
+      "status": "include",
+      "order": 18,
+      "content": {
+        "sectionHeading": "Let's Talk Austin Real Estate",
+        "bodyCopy": "Whether you're ready to move or just starting to explore — reach out and Zach will get back to you personally.",
+        "formFieldLabels": [
+          "Full Name",
+          "Phone",
+          "Email",
+          "What are you interested in?",
+          "Message"
+        ]
+      }
+    },
+    {
+      "id": "office-locations",
+      "name": "Office Locations",
+      "status": "example",
+      "order": 19,
+      "content": {
+        "sectionHeading": "(Example Section) Find Us",
+        "exampleNote": "This is an example of what this section could look like on your site.",
+        "locationCards": [
+          {
+            "city": "Central Austin",
+            "address": "4615 N Lamar Blvd #303B, Austin, TX 78751",
+            "phone": "(210) 831-2838"
+          },
+          {
+            "city": "South Lamar",
+            "address": "1200 S Lamar Blvd, Suite 104, Austin, TX 78704",
+            "phone": "(512) 555-0173"
+          },
+          {
+            "city": "East Austin",
+            "address": "979 Springdale Rd, Suite 122, Austin, TX 78702",
+            "phone": "(512) 555-0191"
+          }
+        ]
+      }
+    },
+    {
+      "id": "newsletter-cta",
+      "name": "Newsletter CTA",
+      "status": "include",
+      "order": 20,
+      "content": {
+        "sectionHeading": "Stay Ahead of the Austin Market",
+        "bodyCopy": "New listings, neighborhood updates, and market shifts — delivered straight to your inbox before they hit the portals.",
+        "formFieldLabels": ["Full Name", "Email"],
+        "checkboxLabels": [
+          "I agree to receive market updates and real estate insights from Sanchez Property Group. You can unsubscribe at any time."
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "name": "Footer",
+      "status": "include",
+      "order": 21,
+      "content": {
+        "logoText": "Sanchez Property Group",
+        "linkGroups": [
+          {
+            "groupName": "Properties",
+            "links": ["Active Listings", "New Construction", "Sold Portfolio", "Home Valuation"]
+          },
+          {
+            "groupName": "Communities",
+            "links": ["South Central Austin", "East Austin", "South Lamar", "Central East Austin"]
+          },
+          {
+            "groupName": "Services",
+            "links": ["Buy", "Sell", "Rent", "Compass Concierge", "Relocation"]
+          },
+          {
+            "groupName": "Company",
+            "links": ["About Zach", "Guides", "Blog", "Contact"]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(210) 831-2838",
+          "email": "sanchezpropertygrouptx@gmail.com",
+          "address": "4615 N Lamar Blvd #303B, Austin, TX 78751"
+        },
+        "socialLinks": [
+          { "platform": "Instagram", "handle": "@zachsanchezrealtor" },
+          { "platform": "LinkedIn", "handle": "Zachary Sanchez" }
+        ],
+        "disclaimerText": "Sanchez Property Group is a team of real estate agents affiliated with Compass. Compass RE Texas, LLC | (512) 575-3644. Compass is a licensed real estate broker and abides by all applicable equal housing opportunity laws. All material presented herein is intended for informational purposes only. Information is compiled from sources deemed reliable but is subject to errors, omissions, changes in price, condition, sale, or withdrawal without notice.",
+        "associationLabels": [
+          "Equal Housing Opportunity",
+          "Texas Real Estate Commission",
+          "TREC Consumer Protection Notice",
+          "TREC Information About Brokerage Services"
+        ]
+      }
+    }
+  ]
+}
